@@ -12,6 +12,11 @@
 :heart: [231A. Team](https://codeforces.com/problemset/problem/231/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/231A_Team.cpp"><b>Solution</b></a>
 
+ :heart: [158A. Next Round](https://codeforces.com/problemset/problem/158/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/158A_Next_Rount.cpp"><b>Solution</b></a>
+  
+ :heart: [50A. Domino piling](https://codeforces.com/problemset/problem/50/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/50A_Domino_Piling.cpp"><b>Solution</b></a>
   
 :heart: [1030A. In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/1030A_In_Search_of_an_Easy_Problem.cpp"><b>Solution</b></a>
