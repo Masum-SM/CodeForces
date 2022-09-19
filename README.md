@@ -17,6 +17,10 @@
   
  :heart: [50A. Domino piling](https://codeforces.com/problemset/problem/50/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/50A_Domino_Piling.cpp"><b>Solution</b></a>
+
+:heart: [546A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/546A_Soldier_and_Bananas.cpp"><b>Solution</b></a>
+
   
 :heart: [1030A. In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/1030A_In_Search_of_an_Easy_Problem.cpp"><b>Solution</b></a>
