@@ -24,6 +24,9 @@
 :heart: [617A. Elephant](https://codeforces.com/problemset/problem/617/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/617A_Elephant.cpp"><b>Solution</b></a>
   
+:heart: [266B. Queue at the School](https://codeforces.com/problemset/problem/266/B) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800_B/266B_Queue_at_the_School.cpp"><b>Solution</b></a> 
+  
 :heart: [1030A. In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/1030A_In_Search_of_an_Easy_Problem.cpp"><b>Solution</b></a>
 
