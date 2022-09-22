@@ -30,6 +30,8 @@
 :heart: [1030A. In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/1030A_In_Search_of_an_Easy_Problem.cpp"><b>Solution</b></a>
 
+:heart: [136A. Presents](https://codeforces.com/problemset/problem/136/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/136A_Presents.cpp"><b>Solution</b></a>
   
 :heart: [344A. Magnets](https://codeforces.com/problemset/problem/344/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/344A_Magnets.cpp"><b>Solution</b></a>
