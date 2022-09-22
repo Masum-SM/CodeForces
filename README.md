@@ -34,6 +34,9 @@
 :heart: [344A. Magnets](https://codeforces.com/problemset/problem/344/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/344A_Magnets.cpp"><b>Solution</b></a>
 
+:heart: [486A. Calculating Function](https://codeforces.com/problemset/problem/486/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/486A_Calculating_Function.cpp"><b>Solution</b></a>
+
 :heart: [344A. Magnets(using STACK)](https://codeforces.com/problemset/problem/344/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/344A_Magnets_STACK.cpp"><b>Solution</b></a>
 
