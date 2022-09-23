@@ -47,3 +47,6 @@
   
 :heart: [61A. Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/61A_Ultra_Fast_Mathematician.cpp"><b>Solution</b></a>
+
+:heart: [705A. Hulk](https://codeforces.com/problemset/problem/705/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/705_A_Hulk.cpp"><b>Solution</b></a>
