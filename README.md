@@ -52,6 +52,8 @@
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/705_A_Hulk.cpp"><b>Solution</b></a>
 
   
- :heart: [288A. Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) <span><b><----></b></span>
+:heart: [288A. Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/288A_Is_your_horseshoe_on_the_other_hoof.cpp"><b>Solution</b></a>
   
+:heart: [469A. I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/469A_I_Wanna_Be_the_Guy.cpp"><b>Solution</b></a>
