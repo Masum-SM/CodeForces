@@ -61,3 +61,6 @@
   
 :heart: [144A. Arrival of the General](https://codeforces.com/problemset/problem/144/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/144A_Arrival_of_the_General.cpp"><b>Solution</b></a>
+
+:heart: [148A. Insomnia cure](https://codeforces.com/problemset/problem/148/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/148A_Insomnia_cure.cpp"><b>Solution</b></a>
