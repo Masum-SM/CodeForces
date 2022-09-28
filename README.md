@@ -68,3 +68,6 @@
 :heart: [1328A. Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/1328A_Divisibility_Problem.cpp"><b>Solution</b></a>
 
+:heart: [520A. Pangram](https://codeforces.com/problemset/problem/520/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/520A_Pangram.cpp"><b>Solution</b></a>
+
