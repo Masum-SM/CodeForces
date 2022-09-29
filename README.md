@@ -77,3 +77,6 @@
 :heart: [996A. Hit the Lottery](https://codeforces.com/problemset/problem/996/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/996A_Hit_the_Lottery.cpp"><b>Solution</b></a>
   
+:heart: [785A. Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/785A_Anton_and_Polyhedrons.cpp"><b>Solution</b></a>
+  
