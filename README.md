@@ -80,3 +80,11 @@
 :heart: [785A. Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/785A_Anton_and_Polyhedrons.cpp"><b>Solution</b></a>
   
+
+:heart: [510A. Fox And Snake](https://codeforces.com/problemset/problem/510/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/510A_Fox_And_Snake.cpp"><b>Solution</b></a>
+ 
+
+  
+:heart: [155A. I_love_%username%](https://codeforces.com/problemset/problem/155/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/155A_I_love_username.cpp"><b>Solution</b></a>
