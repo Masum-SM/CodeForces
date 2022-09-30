@@ -89,3 +89,10 @@
 
 :heart: [750A. New Year and Hurry](https://codeforces.com/problemset/problem/750/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/750_newyr_hurry.cpp"><b>Solution</b></a>
+ 
+ 
+:heart: [427A. Police Recruits](https://codeforces.com/problemset/problem/427/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/427A_Police_Recruits.cpp"><b>Solution</b></a>
+  
+:heart: [581A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/581A_Vasya_the_Hipster.cpp"><b>Solution</b></a>
