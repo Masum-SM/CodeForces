@@ -18,6 +18,12 @@
  :heart: [50A. Domino piling](https://codeforces.com/problemset/problem/50/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/50A_Domino_Piling.cpp"><b>Solution</b></a>
 
+  
+ :heart: [282A. Bit++](https://codeforces.com/problemset/problem/282/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/282_A_B%2B%2B.cpp"><b>Solution</b></a>
+
+
+
 :heart: [546A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/546A_Soldier_and_Bananas.cpp"><b>Solution</b></a>
 
