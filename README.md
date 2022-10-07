@@ -102,3 +102,9 @@
   
 :heart: [581A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/581A_Vasya_the_Hipster.cpp"><b>Solution</b></a>
+
+
+  
+:heart: [1729A. Two Elevators](https://codeforces.com/problemset/problem/1729/A) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/1729A_Two_Elevators.cpp"><b>Solution</b></a>
+
